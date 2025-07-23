@@ -14,20 +14,20 @@ Java & Python
 
 # 폴더 구조 
 
-문제 풀이 코드는 난이도 및 언어별로 체계적으로 분류되어 있습니다.
-LeetCode-Solutions/
-├── java/
-│   ├── Easy/
-│   │   ├── ProblemName1.java
-│   │   ├── ProblemName2.java
-│   │   └── ...
-│   └── (Medium, Hard 폴더는 추후 추가 예정)
-└── python/
-    ├── Easy/
-    │   ├── problem_name_1.py
-    │   ├── problem_name_2.py
-    │   └── ...
-    └── (Medium, Hard 폴더는 추후 추가 예정)
+문제 풀이 코드는 난이도 및 언어별로 체계적으로 분류되어 있습니다.  
+LeetCode-Solutions/  
+├── java/  
+│   ├── Easy/  
+│   │   ├── ProblemName1.java  
+│   │   ├── ProblemName2.java  
+│   │   └── ...  
+│   └── (Medium, Hard 폴더는 추후 추가 예정)  
+└── python/  
+    ├── Easy/  
+    │   ├── problem_name_1.py  
+    │   ├── problem_name_2.py  
+    │   └── ...  
+    └── (Medium, Hard 폴더는 추후 추가 예정)  
 * java/: Java 언어로 작성된 풀이 코드가 저장됩니다.
 * python/: Python 언어로 작성된 풀이 코드가 저장됩니다.
 * Easy/: 현재는 Easy 난이도 문제들 위주로 풀이하고 있습니다.

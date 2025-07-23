@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1108. Defanging an IP Address/1108. Defanging an IP Address.iml" filepath="$PROJECT_DIR$/1108. Defanging an IP Address/1108. Defanging an IP Address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1863. Sum of All Subset XOR Totals/1863. Sum of All Subset XOR Totals.iml" filepath="$PROJECT_DIR$/1863. Sum of All Subset XOR Totals/1863. Sum of All Subset XOR Totals.iml" />
       <module fileurl="file://$PROJECT_DIR$/1920. Build Array from Permutation/1920. Build Array from Permutation.iml" filepath="$PROJECT_DIR$/1920. Build Array from Permutation/1920. Build Array from Permutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/1929. Concatenation of Array/1929. Concatenation of Array.iml" filepath="$PROJECT_DIR$/1929. Concatenation of Array/1929. Concatenation of Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/2469. Convert the Temperature/2469. Convert the Temperature.iml" filepath="$PROJECT_DIR$/2469. Convert the Temperature/2469. Convert the Temperature.iml" />
