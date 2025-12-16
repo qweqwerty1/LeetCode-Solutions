@@ -77,7 +77,7 @@ void FreeNodes(struct ListNode* node) {
 }
 
 void PrintNodes(struct ListNode* ptr) {
-    printf("노드의 값은 : ");
+    printf("문제의 정답 노드의 값은 : ");
     while (ptr != NULL) {
         printf("%d ",ptr->val);
         ptr = ptr->next;
